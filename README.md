@@ -1,2 +1,3 @@
-# smu-nlp
-SMU MSDS - Natural Language Processing
+# Natural Language Processing 
+
+This repository contains several notebooks covering NLP tasks as part of the SMU-NLP course (Summer 2019). 
